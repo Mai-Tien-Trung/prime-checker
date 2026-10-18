@@ -4,13 +4,14 @@
     "dashedName": "learn-nodejs-repl",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 22,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 23
+    "numberOfLessons": 23,
+    "completedDate": 1792270692370
   },
   {
     "id": 1,
@@ -49,7 +50,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1792270921694
   },
   {
     "id": 4,
@@ -88,7 +90,8 @@
     "isResetEnabled": true,
     "numberOfLessons": 1,
     "blockingTests": false,
-    "breakOnFailure": false
+    "breakOnFailure": false,
+    "completedDate": 1792271999801
   },
   {
     "id": 7,
@@ -140,7 +143,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1792346044166
   },
   {
     "id": 11,
@@ -179,7 +183,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1792345995057
   },
   {
     "id": 14,
