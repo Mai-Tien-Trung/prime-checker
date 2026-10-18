@@ -20,7 +20,7 @@
     "build-a-case-converter": true,
     "build-a-prime-number-checker-module": true,
     "build-a-file-processor": true,
-    "build-a-family-movie-watchlist-api": true,
+    "build-a-family-movie-watchlist-api": false,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
     "build-a-submission-form": true,
@@ -28,7 +28,7 @@
     "build-a-weather-service-api": true,
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
-    "build-a-chat-app": false,
+    "build-a-chat-app": true,
     "build-jwt-protected-routes": true
   },
   "chat.disableAIFeatures": true,
